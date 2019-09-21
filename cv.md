@@ -7,3 +7,5 @@ Perhaps in the future I will be able to combine together two areas of interest t
 4. Knowledge of Microsoft Office, blind dialing method.
 5. Previously did not make codes.
 6. No experience.
+7. Student of Ural State Mining University, specialty: applied Geology.
+8. Intermediate - B1.
