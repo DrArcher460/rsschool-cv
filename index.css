@@ -1,10 +1,27 @@
-title{
+.summary{
+padding: 5% 10% 0 10%;
 font-size: 25px;
 text-align: center;
 font-family: Arial, Helvetica, sans-serif;
+color: lightseagreen;
 }
 
 body {
+    width: 1024px;
+    margin: 0 auto;
+background-position: center;
+background-image: url(space.png);
 background-color: black;
+}
 
+.ti {
+border: 5px solid rgb(89, 0, 255);
+border-radius: 100px;
+/*padding: 3px;*/
+margin-bottom: 20px;
+margin-top: 10px;
+}
+
+.mail {
+    font-weight: bold;
 }
